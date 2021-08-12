@@ -2,6 +2,12 @@
 <img src=github-header.png>
 
 ## 👩‍💻 About me
+- 🌍 &nbsp; I’m from **Spain**.
+- 📚 &nbsp; I’m currently studying **Computer Engineering**.
+- 🌱 &nbsp; I’m currently learning Angular.
+- 👨🏻‍💻 &nbsp; All of my projects are available on [Github](https://github.com/lauritajavega99?tab=repositories).
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1_AXhXcmJ3b8Zhf1vN4XsmHQT1oEsOwOf/view?usp=sharing).
+
 ## 🛠 Languages and Tools
 **Programming languages 💻**
 <br><img src="tools/java.png" width="5%" title=""/> <img src="tools/javascript.png" width="5%" title=""/> <img src="tools/csharp.png" width="5%" title=""/>
@@ -10,7 +16,7 @@
 <br><img src="tools/html-5.png" width="5%" title=""/> <img src="tools/css.png" width="5%" title=""/> <img src="tools/android.png" width="5%" title=""/> <img src="tools/wordpress.png" width="5%" title=""/> <img src="tools/prestashop.png" width="5%" title=""/> <img src="tools/bootstrap.png" width="5%" title=""/>
 
 <br>**Design 🖌**
-<br><img src="tools/adobe-photoshop.png" width="5%" title=""/> &nbsp; <img src="tools/adobe-indesign.png" width="5%" title=""/> &nbsp; <img src="tools/adobe-lightroom.png" width="5%" title=""/> &nbsp; <img src="tools/canva.png" width="5%" title=""/> <img src="tools/balsamiq.png" width="5%" title=""/> <img src="tools/procreate.png" width="5%" title=""/> 
+<br><img src="tools/adobe-photoshop.png" width="4%" title=""/> &nbsp; <img src="tools/adobe-indesign.png" width="4%" title=""/> &nbsp; <img src="tools/adobe-lightroom.png" width="4%" title=""/> &nbsp; <img src="tools/canva.png" width="5%" title=""/> <img src="tools/balsamiq.png" width="5%" title=""/> <img src="tools/procreate.png" width="5%" title=""/> 
 
 ## 📊 Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauritajavega99&theme=dracula" width="30%"  />  <img src="https://github-readme-stats.vercel.app/api?username=lauritajavega99&theme=dracula&show_icons=true" width="50%"/>
