@@ -4,8 +4,13 @@
 ## 👩‍💻 About me
 ## 🛠 Languages and Tools
 **Programming languages 💻**
+<br><img src="tools/java.png" width="5%" title=""/> <img src="tools/javascript.png" width="5%" title=""/> <img src="tools/csharp.png" width="5%" title=""/>
+
 <br>**Web / mobile development 📱**
+<br><img src="tools/html-5.png" width="5%" title=""/> <img src="tools/css.png" width="5%" title=""/> <img src="tools/android.png" width="5%" title=""/> <img src="tools/wordpress.png" width="5%" title=""/> <img src="tools/prestashop.png" width="5%" title=""/> <img src="tools/bootstrap.png" width="5%" title=""/>
+
 <br>**Design 🖌**
+<br><img src="tools/adobe-photoshop.png" width="5%" title=""/> &nbsp; <img src="tools/adobe-indesign.png" width="5%" title=""/> &nbsp; <img src="tools/adobe-lightroom.png" width="5%" title=""/> &nbsp; <img src="tools/canva.png" width="5%" title=""/> <img src="tools/balsamiq.png" width="5%" title=""/> <img src="tools/procreate.png" width="5%" title=""/> 
 
 ## 📊 Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauritajavega99&theme=dracula" width="30%"  />  <img src="https://github-readme-stats.vercel.app/api?username=lauritajavega99&theme=dracula&show_icons=true" width="50%"/>
