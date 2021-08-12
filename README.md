@@ -1,6 +1,5 @@
-# 𝐻𝑒𝑙𝑙𝑜, 𝐼'𝑚 𝐿𝑎𝑢𝑟𝑎!👋🏻👩🏻‍💻
+# Hi👋🏻, I'm Laura.
 <img src=github-header.png>
-<br>
 
 ## 👩‍💻 About me
 ## 🛠 Languages and Tools
