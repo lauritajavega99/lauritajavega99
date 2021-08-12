@@ -1,4 +1,9 @@
 # Hello, I'm Laura! 👋🏻👩🏻‍💻
 
 <img src=github-header.png>
-texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto
+<br>
+
+## 👩‍💻 About me
+## 🛠 Languages and Tools
+## 📊 Github Stats
+## 🔎 You can find me on
