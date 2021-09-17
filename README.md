@@ -4,7 +4,7 @@
 ## 👩‍💻 About me
 - 🌍 &nbsp; I’m from **Spain**.
 - 📚 &nbsp; I’m currently studying **Computer Engineering**.
-- 🌱 &nbsp; I’m currently learning Angular.
+- 🌱 &nbsp; I’m currently learning Node JS.
 - 👩‍💻 &nbsp; All of my projects are available on [Github](https://github.com/lauritajavega99?tab=repositories).
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1_AXhXcmJ3b8Zhf1vN4XsmHQT1oEsOwOf/view?usp=sharing).
 
