@@ -6,6 +6,7 @@
 - 📚 &nbsp; I’m currently studying **Computer Engineering**.
 - 🌱 &nbsp; I’m currently learning Node JS.
 - 👩‍💻 &nbsp; All of my projects are available on [Github](https://github.com/lauritajavega99?tab=repositories).
+- 🎨 &nbsp; You can also take a look at [my portfolio](https://lauritajavega99.github.io/portfolio.html).
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1_AXhXcmJ3b8Zhf1vN4XsmHQT1oEsOwOf/view?usp=sharing).
 
 ## 🛠 Languages and Tools
