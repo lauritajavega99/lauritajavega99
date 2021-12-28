@@ -17,13 +17,16 @@
 <br><img src="tools/html-5.png" width="5%" title=""/> <img src="tools/css.png" width="5%" title=""/> <img src="tools/android.png" width="5%" title=""/> <img src="tools/wordpress.png" width="5%" title=""/> <img src="tools/prestashop.png" width="5%" title=""/> <img src="tools/bootstrap.png" width="5%" title=""/>
 
 <br>**Frameworks**
-<br><img src="tools/knockoutjs.png" width="5%" title=""/>  <img src="tools/oracle_jet.png" width="5%" title=""/>  <img src="tools/express-js.png" width="5%" title=""/> 
+<br><img src="tools/knockoutjs.png" width="5%" title=""/>  <img src="tools/oracleJet.png" width="5%" title=""/>  <img src="tools/express-js.png" width="5%" title=""/>  <img src="tools/spring.png" width="5%" title=""/>
 
 <br>**IDEs**
+<br><img src="tools/vscode.png" width="5%" title=""/>  <img src="tools/eclipse.png" width="6%" title=""/> 
 
 <br>**Databases**
+<br><img src="tools/mysql.png" width="5%" title=""/> 
 
 <br>**Others**
+<br><img src="tools/node.png" width="5%" title=""/>  <img src="tools/kubernetes.png" width="5%" title=""/>  <img src="tools/docker.png" width="5%" title=""/>
 
 <br>**Design 🖌**
 <br><img src="tools/adobe-photoshop.png" width="4%" title=""/> &nbsp; <img src="tools/adobe-indesign.png" width="4%" title=""/> &nbsp; <img src="tools/adobe-lightroom.png" width="4%" title=""/> &nbsp; <img src="tools/canva.png" width="5%" title=""/> <img src="tools/balsamiq.png" width="5%" title=""/> <img src="tools/procreate.png" width="5%" title=""/><img src="tools/figma.png" width="9%" title=""/>
