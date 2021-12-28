@@ -1,4 +1,4 @@
-# Hi👋🏻, I'm Laura.
+# Hi 👋🏻, I'm Laura.
 <img src=github-header.png>
 
 ## 👩‍💻 About me
@@ -16,16 +16,16 @@
 <br>**Web / mobile development 📱**
 <br><img src="tools/html-5.png" width="5%" title=""/> <img src="tools/css.png" width="5%" title=""/> <img src="tools/android.png" width="5%" title=""/> <img src="tools/wordpress.png" width="5%" title=""/> <img src="tools/prestashop.png" width="5%" title=""/> <img src="tools/bootstrap.png" width="5%" title=""/>
 
-<br>**Frameworks**
+<br>**Frameworks 💡**
 <br><img src="tools/knockoutjs.png" width="5%" title=""/>  <img src="tools/oracleJet.png" width="5%" title=""/>  <img src="tools/express-js.png" width="5%" title=""/>  <img src="tools/spring.png" width="5%" title=""/>
 
-<br>**IDEs**
+<br>**IDEs 🛠**
 <br><img src="tools/vscode.png" width="5%" title=""/>  <img src="tools/eclipse.png" width="6%" title=""/> 
 
-<br>**Databases**
+<br>**Databases 📚**
 <br><img src="tools/mysql.png" width="5%" title=""/> 
 
-<br>**Others**
+<br>**Others ⚙**
 <br><img src="tools/node.png" width="5%" title=""/>  <img src="tools/kubernetes.png" width="5%" title=""/>  <img src="tools/docker.png" width="5%" title=""/>
 
 <br>**Design 🖌**
