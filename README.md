@@ -1,4 +1,3 @@
-# Hi 👋🏻, I'm Laura.
 <img src=github-header.png>
 
 ## 👩‍💻 About me
