@@ -31,7 +31,7 @@
 <br><img src="tools/adobe-photoshop.png" width="3%" title=""/> &nbsp; <img src="tools/adobe-indesign.png" width="3%" title=""/> &nbsp; <img src="tools/adobe-lightroom.png" width="3%" title=""/> &nbsp; <img src="tools/canva.png" width="4%" title=""/> <img src="tools/balsamiq.png" width="4%" title=""/> <img src="tools/procreate.png" width="4%" title=""/><img src="tools/figma.png" width="8%" title=""/>
 
 ## 📊 Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauritajavega99&theme=dracula" width="30%"  />  <img src="https://github-readme-stats.vercel.app/api?username=lauritajavega99&theme=dracula&show_icons=true" width="50%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauritajavega99&show_icons=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauritajavega99&layout=compact"/>
 
 ## 🔎 Connect with me
 <a href="linkedin.com/in/laura-muñoz-jávega-a1b557194"><img src="socials/linkedin.png" height="33em" align="center" title="Follow me on LinkedIn"/></a> 
